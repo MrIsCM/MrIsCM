@@ -6,3 +6,4 @@
 ## Social
 - [MrIsCM on Kaggle](https://www.kaggle.com/mriscm)
 - [MrIsCM on GitHub](https://github.com/MrIsCM)
+- [MrIsCM on X](https://x.com/SharpAnalytic)
